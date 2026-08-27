@@ -1,0 +1,6 @@
+{
+  "name": "SLM Play",
+  "description": "Lecteur musical élégant au design Apple Glass avec mini-player coulissant, gestion de playlists, import local et contrôles multimédia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
